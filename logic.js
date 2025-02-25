@@ -9,9 +9,9 @@ const cardData = [
     },
     {
         imgSrc: './img/McDonald (2).png',
-        heading: 'McDonald',
+        heading: 'Login Page',
         buttonText: 'Visit site',
-        link: 'https://itzmk678.github.io/mcdonald/'
+        link: 'https://itzmk678.github.io/login-page/'
     },
     {
         imgSrc: './img/flappy.png',
